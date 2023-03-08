@@ -1,0 +1,26 @@
+body
+  {
+    background-color:#beefef ;
+  }
+hr
+  {
+  border-style:none;
+  border-top-style:dotted;
+  border-width:3px;
+  width:5%;
+  } 
+h1,h2,h3
+  {
+   color: #2b4eeb;
+  }
+
+
+.subheading
+  {
+    color:red;
+  }
+.table
+  {
+   border: solid black 2px;
+   border-collapse: collapse;
+  } 
